@@ -1,4 +1,4 @@
-package com.anywhereapps.javatest;
+package com.test.javatest;
 
 public class ClassB extends Employee {
 

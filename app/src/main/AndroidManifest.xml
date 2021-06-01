@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AN001">
-        <activity android:name=".FourthActivity"></activity>
-        <activity android:name=".ThirdActivity" />
-        <activity android:name=".SecondActivity" />
-        <activity android:name=".FirstActivity">
+        <activity android:name="com.test.antest.FourthActivity"></activity>
+        <activity android:name="com.test.antest.ThirdActivity" />
+        <activity android:name="com.test.antest.SecondActivity" />
+        <activity android:name="com.test.antest.FirstActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
